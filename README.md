@@ -13,6 +13,7 @@ Kriteria batas nilai lulus bersifat tetap sehingga disimpan dalam Tuple, sedangk
 Disini ada opsi "hapus" dan "selesai"
 
 hapus = jika ingin menghapus nilai lewat urutan indeks (0-x)
+
 selesai = input nilai sudah selesai dan break
 
 ## Mengurutkan nilai2 yang lulus atau remedi, dan mengoutputkan semua nilai, nilai yang lulus, dan nilai yang remedi

@@ -9,6 +9,7 @@ Kriteria batas nilai lulus bersifat tetap sehingga disimpan dalam Tuple, sedangk
 
 ## While loop untuk tetap menambahkan nilai setelah input nilai
 <img width="843" height="240" alt="image" src="https://github.com/user-attachments/assets/d6a8dd8b-4653-402a-9932-df2f3ef2fbbf" />
+
 Disini ada opsi "hapus" dan "selesai"
 hapus = jika ingin menghapus nilai lewat urutan indeks (0-x)
 selesai = input nilai sudah selesai dan break
